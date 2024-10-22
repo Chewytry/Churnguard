@@ -40,6 +40,8 @@
 
 Churnguard aims to revolutionize how Banks in Singapore approaches customer retention and engagement by harnessing data science methodologies. Through our platform, Churnguard, the team of developers aimed to provide a user-friendly interface to access data-driven insights and recommendations, enabling proactive management of customer churn.
 
+Data for this project is synthetic but based off real world data, any resemblance to any real data is coincidental.
+
 ### Built With
 
 Built on a react frontend and flask serving as the backend framework, the application is easily deployed using Docker.
@@ -132,10 +134,7 @@ And of course, this project would have been impossible without the following peo
   <img src="https://contrib.rocks/image?repo=Chewytry/Churnguard" alt="contrib.rocks image" />
 </a>
 
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
